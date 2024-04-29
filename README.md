@@ -8,12 +8,12 @@ Al finalizar este curso, habrás alcanzado un nivel superior en tu comprensión 
 
 Este repositorio está organizado en dos carpetas principales:
 
-#### Estructuras de Datos
-Desde listas hasta vectores, pasando por stacks y grafos, exploraremos las fundamentales estructuras de datos que son esenciales en el mundo de la programación.
+### [Capítulos/Estructura de datos](2do_parcial/capitulos/estructura_de_datos)
+El cual contiene desde [listas](2do_parcial/capitulos/estructura_de_datos/list.cpp) hasta [vectores](2do_parcial/capitulos/estructura_de_datos/listas/vector.cpp), pasando por [stacks](2do_parcial/capitulos/estructura_de_datos/listas/stack.cpp)
+ y [grafos](2do_parcial/capitulos/estructura_de_datos/grafos), exploraremos las fundamentales estructuras de datos que son esenciales en el mundo de la programación.
+Entre esto también exploramos las estructuras de los [bfs](2do_parcial/capitulos/estructura_de_datos/grafos/bfs) y [dfs](2do_parcial/capitulos/estructura_de_datos/grafos/dfs/dfs.cpp).
 
-#### Grafos
-Sumérgete en el mundo de los grafos, comprendiendo su estructura y cómo pueden ser utilizados para modelar una amplia gama de situaciones del mundo real. Exploraremos algoritmos como BFS y DFS para navegar y analizar grafos de manera efectiva.
-### Problemas
+### [Problemas](2do_parcial/problemas)
 Aquí encontrarás una colección de problemas, algunos ligados a estructuras de datos específicas y otros enfoques de soluciones variadas
 
 
