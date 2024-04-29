@@ -22,4 +22,3 @@ Aquí encontrarás una colección de problemas, algunos ligados a estructuras de
 Las habilidades desarrolladas en este curso son altamente valoradas por líderes de la industria del software. Además de abrirte oportunidades de empleo en empresas de prestigio, te proporcionarán una base sólida para una carrera exitosa en el campo de la tecnología.
 
 Espero que esta información te sea útil !! :]
-# skz
